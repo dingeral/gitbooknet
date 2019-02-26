@@ -6,19 +6,39 @@
     "root": ".",
 
     "plugins": [
-        "theme-comscore",
-        "github-buttons@2.1.0",
-        "favicon@0.0.2"
+        "favicon@0.0.2",
+        "-sharing",
+        "quiz",
+        "katex",
+        "expandable-chapters"
         ],
-
     "pluginsConfig": {
-        "github-buttons": {
-            "repo": "dingeral/gitbooknet",
-            "types": [
-                "star"
-            ],
-            "size": "small"
-        }
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size":  1
+        },
 
+        "favicon": {
+            "shortcut": "https://i.imgur.com/MOthXZJ.png",
+            "bookmark": "https://i.imgur.com/MOthXZJ.png"
+        },
+
+        "quiz": {
+            "labels": {
+                "check": "提交答案",
+                "showExplanation": "显示解释",
+                "showCorrect": "显示正确答案",
+                "explanationHeader": "释义"
+            },
+            "text": {
+                "noChosen": "至少选择一个答案",
+                "incomplete": "有正确答案没有选择"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
+        }
     }
 }
