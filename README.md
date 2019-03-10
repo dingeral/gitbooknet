@@ -1,4 +1,4 @@
-# 介绍
+### 介绍
 
 对平时用过的书签做一下记录，以备查看。
 
@@ -8,13 +8,9 @@
 
 - github：[dingeral](https://github.com/dingeral)
 
-### 一言
-
-<p id="test"></p>
-<script type="text/javascript" src="https://api.xiaolin.in/hitokoto/?code=js&id=test"></script>
+### 一言  古诗词
 
 
-
+<img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4">
 
 ![](https://i.imgur.com/W4GzVfmh.jpg)
-
