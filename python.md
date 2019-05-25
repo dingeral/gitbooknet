@@ -12,4 +12,4 @@
 
 [Think Python](https://greenteapress.com/wp/think-python-2e/)：Think Python是初学者的Python编程入门
 
-[]()
+[码库CTOLib](https://www.ctolib.com/)：Python开发 - 码库CTOLib，收集GitHub上的实用python开源项目，并进行分类。每天都有新的库和项目添加到列表中。
