@@ -6,11 +6,12 @@
     "root": ".",
 
     "plugins": [
-        "favicon@0.0.2",
         "-sharing",
         "quiz",
         "katex",
-        "expandable-chapters"
+        "expandable-chapters",
+        "advanced-emoji",
+        "splitter"
         ],
     "pluginsConfig": {
         "fontsettings": {
@@ -18,12 +19,6 @@
             "family": "serif",
             "size":  2
         },
-
-        "favicon": {
-            "shortcut": "https://i.imgur.com/MOthXZJ.png",
-            "bookmark": "https://i.imgur.com/MOthXZJ.png"
-        },
-
         "quiz": {
             "labels": {
                 "check": "提交答案",
@@ -31,14 +26,14 @@
                 "showCorrect": "显示正确答案",
                 "explanationHeader": "释义"
             },
-            "text": {
+        	"text": {
                 "noChosen": "至少选择一个答案",
                 "incomplete": "有正确答案没有选择"
-            },
-            "buttons": {
+        	},
+        	"buttons": {
                 "showCorrect": true,
                 "showExplanation": true
-            }
+        	}
         }
     }
 }
