@@ -14,7 +14,4 @@
 
 ### 一言  古诗词
 
-
-<img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4">
-
 ![](https://i.imgur.com/W4GzVfmh.jpg)
