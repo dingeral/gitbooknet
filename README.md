@@ -4,9 +4,9 @@
 :dart:
 ### 联系方式
 <address>
-- email：<a href="mailto:dingeral@outlook.com">dingeral</a>
+email：<a href="mailto:dingeral@outlook.com">dingeral</a>
 <br>
-- github：<a href="https://github.com/dingeral">dingeral</a>
+github：<a href="https://github.com/dingeral">dingeral</a>
 </address>
 
 ### 一言  古诗词
@@ -15,7 +15,6 @@
 
 ![](https://i.imgur.com/W4GzVfmh.jpg)
 
-<p><bdo dir="rtl">和发挥恶化</bdo></p>
 
 
 
