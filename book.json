@@ -7,32 +7,17 @@
 
     "plugins": [
         "-sharing",
+        "-search",
         "-highlight",
-        "quiz",
         "expandable-chapters",
-        "katex"
+        "splitter",
+        "search-pro"
         ],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
             "family": "serif",
             "size":  2
-        },
-        "quiz": {
-            "labels": {
-                "check": "提交答案",
-                "showExplanation": "显示解释",
-                "showCorrect": "显示正确答案",
-                "explanationHeader": "释义"
-            },
-        	"text": {
-                "noChosen": "至少选择一个答案",
-                "incomplete": "有正确答案没有选择"
-        	},
-        	"buttons": {
-                "showCorrect": true,
-                "showExplanation": true
-        	}
         }
     }
 }
