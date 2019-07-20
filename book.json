@@ -7,11 +7,10 @@
 
     "plugins": [
         "-sharing",
+        "-highlight",
         "quiz",
-        "katex",
         "expandable-chapters",
-        "advanced-emoji",
-        "splitter"
+        "katex"
         ],
     "pluginsConfig": {
         "fontsettings": {
