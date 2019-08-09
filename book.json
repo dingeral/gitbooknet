@@ -10,7 +10,8 @@
         "-highlight",
         "expandable-chapters",
         "splitter",
-        "search-pro"
+        "search-pro",
+        "back-to-top-button"
         ],
     "pluginsConfig": {
         "fontsettings": {
