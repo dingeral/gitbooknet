@@ -1,3 +1,8 @@
+- [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+
+#### 我常用的
+
+
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)：管理你打开的网页
 
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?utm_source=chrome-ntp-icon)：悬停放大图片
