@@ -8,7 +8,7 @@
     "plugins": [
         "-sharing",
         "-highlight",
-        "lunr",
+        "-lunr",
         "expandable-chapters",
         "splitter",
         "search-pro",
