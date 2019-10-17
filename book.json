@@ -12,13 +12,19 @@
         "expandable-chapters",
         "splitter",
         "search-pro",
-        "back-to-top-button"
-        ],
+        "back-to-top-button",
+        "copy-code-button",
+        "hide-element"
+    ],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
             "family": "serif",
             "size":  2
+        },
+        
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
     }
 }
