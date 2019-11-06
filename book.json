@@ -6,6 +6,7 @@
     "root": ".",
 
     "plugins": [
+        "yahei",
         "-sharing",
         "-highlight",
         "-lunr",
