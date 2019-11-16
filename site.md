@@ -1,4 +1,5 @@
 - [推特](https://twitter.com/)
+- [Medium](https://medium.com/)
 - [廖雪峰](liaoxuefeng.com/)
 - [实验楼](https://www.shiyanlou.com/)
 - [Study-Area](study-area.org)
