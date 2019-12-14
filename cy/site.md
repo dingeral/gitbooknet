@@ -8,3 +8,5 @@
 - [Imgur](https://imgur.com/)
 - [Quora](https://www.quora.com/)
 - [深度论坛](https://bbs.deepin.org/)
+- [数学乐](shuxuele.com)
+- [内江师范学院图书馆](http://lib.njtc.edu.cn/)
